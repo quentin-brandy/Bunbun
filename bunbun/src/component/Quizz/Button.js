@@ -1,7 +1,7 @@
 function Button() {
     return (
         <>
-    <li>
+    <li className="flex justify-center px-16 py-10">
         
     </li>
     </>
